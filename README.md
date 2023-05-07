@@ -56,7 +56,7 @@ Mac                      30 hrs 49 mins      ███████████�
  Last Updated on 07/05/2023 12:12:15 UTC
 <!--END_SECTION:waka-->
 
-
+<div align="center">
   <p>
   <a href="https://github.com/suny0ung">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suny0ung&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=omni&hide=none" />
@@ -68,8 +68,7 @@ Mac                      30 hrs 49 mins      ███████████�
      <img src="https://github-readme-stats.vercel.app/api?username=suny0ung&hide=none&hide_title=false&show_icons=ture&include_all_commits=false&theme=omni" />
     </a>
   </p>
-
-
+</div>
 
 <!--
 **suny0ung/suny0ung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
