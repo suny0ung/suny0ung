@@ -57,23 +57,20 @@ Mac                      30 hrs 49 mins      ███████████�
 <!--END_SECTION:waka-->
 <div align="center">
   
-  <div>
-    <h3>💡 My Most Used Languages 💡</h3>
+
     <p >
       <a href="https://github.com/suny0ung">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suny0ung&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=omni&hide=none" />
       </a>
     </p>
-  </div>
-  
-  <div>
-    <h3 >💡 My Git Stats 💡</h3>
+
+
     <p >
       <a href="https://github.com/suny0ung">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=suny0ung&hide=none&hide_title=false&show_icons=ture&include_all_commits=false&theme=omni" />
       </a>
     </p>
-  </div>
+
 
 </div>
 
