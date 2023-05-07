@@ -56,7 +56,7 @@ Mac                      30 hrs 49 mins      ███████████�
  Last Updated on 07/05/2023 12:12:15 UTC
 <!--END_SECTION:waka-->
 
-<div aling="center">
+<div align="center">
    <p display="inline">
     <a href="https://github.com/suny0ung">
      <img src="https://github-readme-stats.vercel.app/api?username=suny0ung&hide=none&hide_title=false&show_icons=ture&include_all_commits=false&theme=omni" />
