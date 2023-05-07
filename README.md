@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome✨&animation=fadeIn&fontSize=55&fontAlignY=40&desc=Sunyoungs%20Github&descSize=30)
-
-<hr />
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Welcome✨&animation=fadeIn&fontSize=40&fontAlignY=30&desc=Sunyoungs%20Github&descSize=30)
 <!-- 
+<hr />
+
 📋 Languages<br /><br />
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
