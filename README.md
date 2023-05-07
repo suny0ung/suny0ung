@@ -58,14 +58,14 @@ Mac                      30 hrs 49 mins      ███████████�
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
-  <a href="https://github.com/${suny0ung}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${suny0ung}&layout=compact&show_icons=${ture}&show_owner=${ture}&hide_title=${false}&theme=${nord}&hide=${none}" />
+  <a href="https://github.com/suny0ung">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suny0ung&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=nord&hide=none" />
   </a>
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
-  <a href="https://github.com/${suny0ung}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${suny0ung}&hide=${none}&hide_title=${false}&show_icons=${ture}&include_all_commits=${false}&theme=${nord}" />
+  <a href="https://github.com/suny0ung">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=suny0ung&hide=none&hide_title=false&show_icons=ture&include_all_commits=false&theme=nord" />
   </a>
 </p>
 
