@@ -60,7 +60,7 @@ Mac                      30 hrs 49 mins      ███████████�
    <p display="inline">
     <a href="https://github.com/suny0ung">
      <img src="https://github-readme-stats.vercel.app/api?username=suny0ung&hide=none&hide_title=false&show_icons=ture&include_all_commits=false&theme=omni" />
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suny0ung&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=omni&hide=none" />
+     <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suny0ung&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=omni&hide=none" />
     </a>
   </p>
 
