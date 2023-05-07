@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#BBDAEF&height=90&section=header&text=&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=90&section=header&text=&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=#BBDAEF&text=Sunyoung's_Github&fontAlign=18&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=A3DCBE&text=Sunyoung's_Github&fontAlign=18&fontSize=30)
 <hr />
 
 <!-- 
