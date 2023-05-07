@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Welcome✨&animation=fadeIn&fontSize=40&fontAlignY=30&desc=Sunyoungs%20Github&descSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&width=100%&height=280&section=header&text=Welcome✨&animation=fadeIn&fontSize=40&fontAlignY=30&desc=Sunyoungs%20Github&descSize=30)
 <!-- 
 <hr />
 
