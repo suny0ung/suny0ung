@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome✨&animation=fadeIn&fontSize=55&fontAlignY=40&desc=Sunyoungs%20Github&descSize=30)
 
 <hr />
-
+<!-- 
 📋 Languages<br /><br />
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -15,7 +15,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-🏷 Contact Me<br /><br />
+🏷 Contact Me<br /><br /> -->
 
 
 
