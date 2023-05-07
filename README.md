@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=90&section=header&text=&animation=fadeIn)
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Sunyoung's_Github&fontAlign=18&fontSize=30&color=363636)
-<hr />
+
 
 <!-- 
 <hr />
