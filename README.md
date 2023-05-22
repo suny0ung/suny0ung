@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=90&section=header&text=&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5594F0&height=90&section=header&text=&animation=fadeIn)
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Sunyoung's_Github&fontAlign=18&fontSize=30&color=6FC7E1)
 
@@ -64,8 +64,8 @@ Mac                      28 hrs 32 mins      ███████████�
 <div align="center">
    <p display="inline">
     <a href="https://github.com/suny0ung">
-     <img height="190" src="https://github-readme-stats.vercel.app/api?username=suny0ung&hide=none&hide_title=false&show_icons=ture&include_all_commits=false&theme=vue" />
-     <img width="348" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suny0ung&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=vue&hide=none" />
+     <img height="190" src="https://github-readme-stats.vercel.app/api?username=suny0ung&hide=none&hide_title=false&show_icons=ture&include_all_commits=false&theme=default" />
+     <img width="348" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suny0ung&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=default&hide=none" />
     </a>
   </p>
 
