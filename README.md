@@ -75,6 +75,8 @@ Mac                      8 hrs 6 mins        ███████████�
 
 </div>
 
+<a href="https://note-ballpen.tistory.com/m" > 블로그 </a>
+
 <!--
 **suny0ung/suny0ung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
