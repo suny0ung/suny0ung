@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Sunyoung's_Github&fontAlign=18&fontSize=30&color=6FC7E1)
 
+<a href="https://note-ballpen.tistory.com/m" > 🏠 개인 블로그 </a>
 
 <!-- 
 <hr />
@@ -75,7 +76,6 @@ Mac                      8 hrs 6 mins        ███████████�
 
 </div>
 
-<a href="https://note-ballpen.tistory.com/m" > 블로그 </a>
 
 <!--
 **suny0ung/suny0ung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
