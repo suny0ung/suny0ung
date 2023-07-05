@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Sunyoung's_Github&fontAlign=18&fontSize=30&color=6FC7E1)
 
-<a href="https://note-ballpen.tistory.com/m" > 🏠 개인 블로그 </a>
+<span>👩🏻‍💻 c.sunyoun9@gmail.com </span> <br/>
+
+<a href="https://note-ballpen.tistory.com" > 🏠 개인 블로그 </a>
 
 <!-- 
 <hr />
@@ -71,8 +73,6 @@ Mac                      8 hrs 6 mins        ███████████�
      <img width="348" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suny0ung&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=default&hide=none" />
     </a>
   </p>
-
-
 
 </div>
 
