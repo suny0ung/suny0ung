@@ -49,18 +49,17 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               0 secs              ██████████████████░░░░░░░   72.81 % 
-Bash                     0 secs              ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 
- Last Updated on 25/08/2023 18:34:46 UTC
+ Last Updated on 26/08/2023 18:34:48 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
